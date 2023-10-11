@@ -1,0 +1,5 @@
+com/devops/backend/BackendApplication.class
+com/devops/backend/repositery/HelloWorldRepository.class
+com/devops/backend/service/HelloWorldService.class
+com/devops/backend/controller/HelloWorldController.class
+com/devops/backend/model/HelloWorld.class
